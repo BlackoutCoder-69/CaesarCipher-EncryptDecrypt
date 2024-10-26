@@ -11,8 +11,8 @@ Clone the Repository:
 bash
 Copy code
 
-git clone https://github.com/BlackoutCoder-69/CaesarCipher-Python.git
-cd CaesarCipher-Python
+git clone https://github.com/BlackoutCoder-69/CaesarCipher_Python.git
+cd CaesarCipher_Python
 
 Run the Program:
 
