@@ -10,13 +10,17 @@ Clone the Repository:
 
 bash
 Copy code
+
 git clone https://github.com/BlackoutCoder-69/CaesarCipher-Python.git
 cd CaesarCipher-Python
+
 Run the Program:
 
 bash
 Copy code
+
 python caesar_cipher.py
+
 Select an Option:
 
 Choose 1 to enter a word for encryption.
